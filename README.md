@@ -1,2 +1,2 @@
 # EXPENSES
-#run with sln
+open GUI.sln to launch the project
