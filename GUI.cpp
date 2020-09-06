@@ -10,7 +10,7 @@ GUI::GUI(QWidget *parent)
 
     this->connectSignalsAndSlots();
 
-    this->initRepo();
+    //this->initRepo();
     this->totalData();
 
     this->model = new TableModel(this->service);
