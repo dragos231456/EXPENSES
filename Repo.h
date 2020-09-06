@@ -11,7 +11,7 @@ template<typename ClassType>
 class Repo
 {
 private:
-	string filename = "expensestest.csv";
+	string filename = "exp.csv";
 	void readAllFromFile(vector<ClassType>& elements);
 	void writeAllToFile(vector<ClassType> elements);
 public:
